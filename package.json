@@ -1,0 +1,29 @@
+{
+  "name": "smart_transcript_in_solidity",
+  "version": "1.0.0",
+  "description": "The solidity smart contract for Smart-Transcript decentralized application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adesdesk/smart_transcript_in_solidity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adesdesk/smart_transcript_in_solidity/issues"
+  },
+  "homepage": "https://github.com/Adesdesk/smart_transcript_in_solidity#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.5",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "dotenv": "^16.0.3"
+  }
+}
