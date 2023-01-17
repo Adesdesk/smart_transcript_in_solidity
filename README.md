@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+This is the program logic behind the Smart-Transcript decentralized application. It is a solidity-based smart contract that enables institutions tokenize academic ranscripts and certificates of their graduates, making them available to the public on the ethereum blockchain.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Tasks of interest
 
-Try running some of the following tasks:
-
-```shell
 npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
-```
