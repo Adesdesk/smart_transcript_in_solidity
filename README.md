@@ -2,10 +2,7 @@ This is the program logic behind the Smart-Transcript decentralized application.
 institutions tokenize academic ranscripts and certificates of their graduates, making them available to the public 
 on the ethereum blockchain.
 
-Tasks of interest
 
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+Successfully verified contract Smart_Transcript on Etherscan.
+
+https://goerli.etherscan.io/address/0x8C580f539e8Ef850C8C3c885ff3C2c0613b9F124#code
